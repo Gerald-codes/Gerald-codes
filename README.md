@@ -1,15 +1,14 @@
-# Hi, I'm Gerald Tan 👋
+<h1 align="center">Hi 👋 I'm Gerald Tan</h1>
 
-🎓 **Computing Science Student** @ Singapore Institute of Technology × University of Glasgow  
-🔐 Building **DevSecOps pipelines**, cloud-native systems, and ML-powered applications  
-🌏 Heading to Glasgow for the **Overseas Immersion Programme, Summer 2025**  
-📬 Open to **internship opportunities** in DevSecOps, cloud, or backend engineering
-
----
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&center=true&vCenter=true&width=1000&lines=Computer+Science+Student+@+Singapore+Institute+of+Technology+×+University+of+Glasgow"/>
+</p>
 
 ## 🧑‍💻 About Me
 
-I'm a CS student with hands-on experience building **cloud-native microservices, automated security pipelines, and distributed systems**. Before university, I served as a **Navigation Specialist (3SG) in the Republic of Singapore Navy** and worked as an SDET at a Singapore tech startup.
+I'm a CS student with hands-on experience building **cloud-native microservices, automated security pipelines, and distributed systems**. Before university, I intern as a Account Service Executive at OCBC Bank and also intern as an SDET at a Singapore tech startup.
+
+📬 Open to **internship opportunities** in DevSecOps, cloud, or full-stack developer
 
 What I actually work on:
 - 🔐 Automating security into CI/CD pipelines (SAST/DAST, OWASP Top 10 compliance)
@@ -18,8 +17,6 @@ What I actually work on:
 - 🧪 Writing automation frameworks for testing workflows (Selenium, Robot Framework)
 
 Outside of code — 🥋 Red Belt Taekwondo competitor (SIT TOC 2025) and ☕ coffee-fuelled debugger.
-
----
 
 ## 🔧 Tech Stack
 
@@ -55,30 +52,22 @@ Outside of code — 🥋 Red Belt Taekwondo competitor (SIT TOC 2025) and ☕ co
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
----
-
 ## 🚀 Featured Projects
 
-### 🔐 Security Compliance Engine *(Enterprise · Private)*
+### 🔐 [Security Compliance Engine](https://gitlab.com/Gerald-codes1/security-compliance-engine/)
 **Python · GitLab CI/CD · Docker · SonarQube · OWASP ZAP · CodeQL**
 
 A **DevSecOps compliance engine** built for an enterprise client that bakes security scanning directly into CI/CD pipelines. Every commit triggers automated SAST and DAST scans, and a unified **OWASP Top 10 compliance report** is generated automatically — removing the need for manual security reviews entirely.
-
----
 
 ### 🕵️ [FraudBuster — Fraud Detection System](https://github.com/CaffeinatedKong/FraudBuster)
 **Python · Docker · Kubernetes · gRPC · Machine Learning · Distributed Caching**
 
 A cloud-native microservices platform that detects fraudulent and bot-generated product reviews in real time. ML models are served across isolated services communicating via **gRPC**, with distributed caching keeping latency low under high load.
 
----
-
 ### 🎮 [Tic Tac Toe AI](https://github.com/Gerald-codes/CSC1103-TICTACTOE)
 **C · Minimax · Heuristic Evaluation**
 
 A C-based game built under IoT edge computing constraints, featuring both two-player and AI modes. The AI opponent uses **minimax with heuristic fallback** — simple on the surface, non-trivial under the hood.
-
----
 
 ## 📜 Certifications & Achievements
 
@@ -90,18 +79,11 @@ A C-based game built under IoT edge computing constraints, featuring both two-pl
 | 🥋 Half-Colours Award — Taekwondo Poomsae | POL-ITE, 2019 |
 | 🎓 EAGLES Award, Merit Bursary, Character Award | Edusave, 2018 |
 
----
+## 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gerald-codes&theme=tokyonight" />
+</p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gerald-codes&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gerald-codes&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9)
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
