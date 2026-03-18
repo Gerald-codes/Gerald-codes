@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a CS student with hands-on experience building **cloud-native microservices, automated security pipelines, and distributed systems**. Before university, I intern as a Account Service Executive at OCBC Bank and also intern as an SDET at a Singapore tech startup.
+I'm a CS student experienced in building **cloud-native microservices, automated pipelines, and full-stack applications**.
 
 📬 Open to **internship opportunities** in DevSecOps, cloud, or full-stack developer
 
@@ -25,7 +25,6 @@ Outside of code — 🥋 Red Belt Taekwondo competitor (SIT TOC 2025) and ☕ co
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
@@ -35,8 +34,6 @@ Outside of code — 🥋 Red Belt Taekwondo competitor (SIT TOC 2025) and ☕ co
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=flat-square&logo=owasp&logoColor=white)
 
 **Data & Analytics**
 
@@ -44,6 +41,7 @@ Outside of code — 🥋 Red Belt Taekwondo competitor (SIT TOC 2025) and ☕ co
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 **Testing & Tools**
 
@@ -68,21 +66,6 @@ A cloud-native microservices platform that detects fraudulent and bot-generated 
 **C · Minimax · Heuristic Evaluation**
 
 A C-based game built under IoT edge computing constraints, featuring both two-player and AI modes. The AI opponent uses **minimax with heuristic fallback** — simple on the surface, non-trivial under the hood.
-
-## 📜 Certifications & Achievements
-
-| | |
-|---|---|
-| 🐳 Docker & Kubernetes Fundamentals | Dell Technologies, 2025 |
-| ⚓ Silver Bayonet Award — Honour Graduate | Republic of Singapore Navy, 2023 |
-| 📐 Certificate of Advanced Computing Mathematics | 2022 |
-| 🥋 Half-Colours Award — Taekwondo Poomsae | POL-ITE, 2019 |
-| 🎓 EAGLES Award, Merit Bursary, Character Award | Edusave, 2018 |
-
-## 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gerald-codes&theme=tokyonight" />
-</p>
 
 
 ## 🌐 Connect With Me
