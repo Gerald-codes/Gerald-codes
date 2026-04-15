@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋 I'm Gerald Tan</h1>
+<h1 align="center">Hello I'm Gerald Tan</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&center=true&vCenter=true&width=1000&lines=Computer+Science+Student+@+Singapore+Institute+of+Technology+×+University+of+Glasgow"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=15&center=true&vCenter=true&width=850&lines=Computer+Science+Student+@+Singapore+Institute+of+Technology+×+University+of+Glasgow"/>
 </p>
 
-## 🧑‍💻 About Me
+## About Me
 
-I'm a CS student experienced in building **cloud-native microservices, automated pipelines, and full-stack applications**.
+I'm a Computer Science student experienced in building **cloud-native microservices, automated pipelines, and full-stack applications**.
 
 📬 Open to **internship opportunities** in DevSecOps, cloud, or full-stack developer
 
@@ -18,7 +18,7 @@ What I actually work on:
 
 Outside of code — 🥋 Red Belt Taekwondo competitor (SIT TOC 2025) and ☕ coffee-fuelled debugger.
 
-## 🔧 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -50,7 +50,7 @@ Outside of code — 🥋 Red Belt Taekwondo competitor (SIT TOC 2025) and ☕ co
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🔐 [Security Compliance Engine](https://gitlab.com/Gerald-codes1/security-compliance-engine/)
 **Python · GitLab CI/CD · Docker · SonarQube · OWASP ZAP · CodeQL**
@@ -68,8 +68,8 @@ A cloud-native microservices platform that detects fraudulent and bot-generated 
 A C-based game built under IoT edge computing constraints, featuring both two-player and AI modes. The AI opponent uses **minimax with heuristic fallback** — simple on the surface, non-trivial under the hood.
 
 
-## 🌐 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gt1303/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white)](https://gerald-codes.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=aircanadasv&logoColor=white)](https://gerald-codes.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gerald.tanyx@gmail.com)
